@@ -34,9 +34,9 @@ A web-based Vehicle and Fleet Management System designed to manage vehicles, dri
 - Leaflet Maps
 - Font Awesome
 
-## Project Structure
+##  Project Structure
 
-```text
+
 vehicle_leaflet/
 ├── application/
 ├── assets/
@@ -44,16 +44,26 @@ vehicle_leaflet/
 ├── .htaccess
 └── index.php
 
+
 ## Installation
 
-###  Clone the repository:
+- Clone the repository:
 
-```text
-git clone https://github.com/your-username/Vehicle_Leaflet.git
+git clone https://github.com/RumiBuilds/Vehicle_Leaflet.git
 
--  Move the project into your local web server directory.
--  Create a MySQL database.
--  Configure the database connection in the CodeIgniter configuration.
--  Update the application URL according to your local environment.
--  Start Apache and MySQL using XAMPP/WAMP.
--  Open the project in your browser.
+- Move the project into your local web server directory.
+- Create a MySQL database.
+- Configure the database connection in the CodeIgniter configuration.
+- Update the application URL according to your local environment.
+- Start Apache and MySQL using XAMPP/WAMP.
+- Open the project in your browser.
+  
+## Tracking & Maps
+
+The system provides vehicle and trip tracking functionality with map-based visualization and location-related features.
+
+##  Security
+
+Do not commit real database passwords, API keys, SMTP credentials or other sensitive configuration values to a public repository.
+
+Use local configuration values when running the project.
