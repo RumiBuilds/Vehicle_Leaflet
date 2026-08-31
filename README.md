@@ -35,23 +35,10 @@ A web-based Vehicle and Fleet Management System designed to manage vehicles, dri
 
 ## Project Structure
 
-
+```text
 vehicle_leaflet/
 ├── application/
 ├── assets/
 ├── system/
 ├── .htaccess
 └── index.php
-
-
-## Installation
-1.Clone the repository:
- ```bash
-   git clone https://github.com/RumiBuilds/Vehicle_Leaflet.git
-
-
-2.Move the project into your local web server directory.
-3.Create a MySQL database.
-4.Configure the database connection.
-5.Start Apache and MySQL using XAMPP/WAMP.
-6.Open the project in your browser.
