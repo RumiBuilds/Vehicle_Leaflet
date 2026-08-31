@@ -36,7 +36,7 @@ A web-based Vehicle and Fleet Management System designed to manage vehicles, dri
 
 ##  Project Structure
 
-```bash
+
 vehicle_leaflet/
 ├── application/
 ├── assets/
