@@ -45,28 +45,13 @@ vehicle_leaflet/
 
 
 ## Installation
-- Clone the repository:
-  ```bash
-  
-git clone https://github.com/RumiBuilds/Vehicle_Leaflet.git
+1.Clone the repository:
+ ```bash
+   git clone https://github.com/RumiBuilds/Vehicle_Leaflet.git
 
 
-- Move the project into your local web server directory.
-- Create a MySQL database.
-- Configure the database connection.
-- Start Apache and MySQL using XAMPP/WAMP.
-- Open the project in your browser.
-## Tracking & Maps
-
-The system provides vehicle and trip tracking functionality with map-based visualization and location-related features.
-
-## Security
-
-Do not commit real database passwords, API keys, SMTP credentials or other sensitive configuration values to a public repository.
-
-
-## Developer
-
-### Rimsha Tariq
-
-Computer Science Graduate
+2.Move the project into your local web server directory.
+3.Create a MySQL database.
+4.Configure the database connection.
+5.Start Apache and MySQL using XAMPP/WAMP.
+6.Open the project in your browser.
