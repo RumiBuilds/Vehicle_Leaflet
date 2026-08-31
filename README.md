@@ -36,7 +36,7 @@ A web-based Vehicle and Fleet Management System designed to manage vehicles, dri
 
 ##  Project Structure
 
-
+```bash
 vehicle_leaflet/
 ├── application/
 ├── assets/
@@ -48,7 +48,7 @@ vehicle_leaflet/
 ## Installation
 
 - Clone the repository:
-
+```bash
 git clone https://github.com/RumiBuilds/Vehicle_Leaflet.git
 
 - Move the project into your local web server directory.
