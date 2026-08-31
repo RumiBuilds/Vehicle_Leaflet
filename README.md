@@ -47,7 +47,10 @@ vehicle_leaflet/
 ## Installation
 - Clone the repository:
   ```bash
+  
 git clone https://github.com/RumiBuilds/Vehicle_Leaflet.git
+
+
 - Move the project into your local web server directory.
 - Create a MySQL database.
 - Configure the database connection.
