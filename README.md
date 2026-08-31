@@ -1,4 +1,4 @@
-# Vehicle Fleet Management System
+# Vehicle Fleet Management System 
 
 A web-based Vehicle and Fleet Management System designed to manage vehicles, drivers, trips, fuel expenses, tracking, geofences, customers and fleet reports from a centralized dashboard.
 
@@ -22,7 +22,7 @@ A web-based Vehicle and Fleet Management System designed to manage vehicles, dri
 ## Technologies Used
 
 - PHP
-- CodeIgniter Framework
+- CodeIgniter
 - MySQL
 - HTML5
 - CSS3
@@ -32,9 +32,8 @@ A web-based Vehicle and Fleet Management System designed to manage vehicles, dri
 - AJAX
 - REST API
 - Leaflet Maps
-- Font Awesome
 
-##  Project Structure
+## Project Structure
 
 
 vehicle_leaflet/
@@ -46,24 +45,25 @@ vehicle_leaflet/
 
 
 ## Installation
-
 - Clone the repository:
-```bash
+  ```bash
 git clone https://github.com/RumiBuilds/Vehicle_Leaflet.git
-
 - Move the project into your local web server directory.
 - Create a MySQL database.
-- Configure the database connection in the CodeIgniter configuration.
-- Update the application URL according to your local environment.
+- Configure the database connection.
 - Start Apache and MySQL using XAMPP/WAMP.
 - Open the project in your browser.
-  
 ## Tracking & Maps
 
 The system provides vehicle and trip tracking functionality with map-based visualization and location-related features.
 
-##  Security
+## Security
 
 Do not commit real database passwords, API keys, SMTP credentials or other sensitive configuration values to a public repository.
 
-Use local configuration values when running the project.
+
+## Developer
+
+### Rimsha Tariq
+
+Computer Science Graduate
