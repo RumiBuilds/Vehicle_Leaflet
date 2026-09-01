@@ -54,3 +54,18 @@ vehicle_leaflet/
 -  Update the application URL according to your local environment.  
 -  Start Apache and MySQL using XAMPP/WAMP.  
 -  Open the project in your browser.
+
+## Tracking & Maps
+
+The system provides vehicle and trip tracking functionality with map-based visualization and location-related features.
+
+## Security
+
+Do not commit real database passwords, API keys, SMTP credentials or other sensitive configuration values to a public repository.
+
+
+## Developer
+
+### Rimsha Tariq
+
+Computer Science Graduate
