@@ -35,10 +35,22 @@ A web-based Vehicle and Fleet Management System designed to manage vehicles, dri
 
 ## Project Structure
 
-```text
 vehicle_leaflet/
-├── application/
-├── assets/
-├── system/
-├── .htaccess
-└── index.php
+- application/
+- assets/
+- system/
+- .htaccess
+- index.php
+
+## Installation
+
+- Clone the repository:
+```bash
+git clone https://github.com/your-username/Vehicle_Leaflet.git
+
+- Move the project into your local web server directory.
+- Create a MySQL database.
+- Configure the database connection in the CodeIgniter configuration.
+- Update the application URL according to your local environment.
+- Start Apache and MySQL using XAMPP/WAMP.
+- Open the project in your browser.
