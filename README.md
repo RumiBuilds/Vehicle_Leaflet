@@ -44,13 +44,13 @@ vehicle_leaflet/
 
 ## Installation
 
-• Clone the repository:
+- Clone the repository:
 
 `git clone https://github.com/RumiBuilds/Vehicle_Leaflet.git`
 
-• Move the project into your local web server directory.  
-• Create a MySQL database.  
-• Configure the database connection in the CodeIgniter configuration.  
-• Update the application URL according to your local environment.  
-• Start Apache and MySQL using XAMPP/WAMP.  
-• Open the project in your browser.
+-  Move the project into your local web server directory.  
+-  Create a MySQL database.  
+-  Configure the database connection in the CodeIgniter configuration.  
+-  Update the application URL according to your local environment.  
+-  Start Apache and MySQL using XAMPP/WAMP.  
+-  Open the project in your browser.
